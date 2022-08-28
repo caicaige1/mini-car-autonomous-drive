@@ -1,0 +1,16 @@
+程序参考：
+https://aistudio.baidu.com/aistudio/datasetdetail/162540
+
+教程参考：
+https://aistudio.baidu.com/aistudio/datasetdetail/162528
+https://zhidao.baidu.com/question/1903702886412298020.html
+https://xinzhi.wenda.so.com/m/a/1523288061202474?ivk_sa=1024320u
+https://blog.csdn.net/sinat_28782331/article/details/85866157
+https://cloud.tencent.com/developer/article/1496003
+https://cloud.tencent.com/developer/article/1496003
+https://blog.csdn.net/professionalmcu/article/details/121970340
+https://zhidao.baidu.com/question/4875813.html
+https://blog.csdn.net/Naisu_kun/article/details/107019175
+https://blog.csdn.net/weixin_44107116/article/details/122522243
+https://blog.csdn.net/qq_31232793/article/details/87889368
+
